@@ -1,11 +1,8 @@
 mailserver-admin
 ================
-![Testing Symfony with MySQL](https://github.com/jeboehm/mailserver-admin/workflows/Testing%20Symfony%20with%20MySQL/badge.svg)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jeboehm/mailserver-admin/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/jeboehm/mailserver-admin/?branch=master)
-
 Description
 -----------
-This is an administration interface for [docker-mailserver](https://github.com/jeboehm/docker-mailserver).
+This is an administration interface for [docker-mailserver](https://github.com/sunshine0709/mail-management-system).
 
 Screenshots
 -----------
